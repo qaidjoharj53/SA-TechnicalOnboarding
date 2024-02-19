@@ -28749,8 +28749,8 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _tableJpg = require("../images/Table.jpg");
-var _tableJpgDefault = parcelHelpers.interopDefault(_tableJpg);
+ */ var _designDeskJpeg = require("../images/design-desk.jpeg");
+var _designDeskJpegDefault = parcelHelpers.interopDefault(_designDeskJpeg);
 var _projectsAvif = require("../images/projects.avif");
 var _projectsAvifDefault = parcelHelpers.interopDefault(_projectsAvif);
 const imageAltText = "A desk with a plant, earpods, a locked smartphone, a pencil and a spectacle";
@@ -28819,7 +28819,7 @@ const Portfolio = ()=>{
                             paddingTop: "3rem"
                         },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: (0, _tableJpgDefault.default),
+                            src: (0, _designDeskJpegDefault.default),
                             style: {
                                 height: "90%",
                                 width: "100%",
@@ -28903,11 +28903,11 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/Table.jpg":"i3FrE","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/projects.avif":"5OgKo"}],"i3FrE":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "Table.0cade0c2.jpg" + "?" + Date.now();
-
-},{"./helpers/bundle-url":"lgJ39"}],"5OgKo":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/projects.avif":"5OgKo","../images/design-desk.jpeg":"jSSP3"}],"5OgKo":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "projects.83208d15.avif" + "?" + Date.now();
+
+},{"./helpers/bundle-url":"lgJ39"}],"jSSP3":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "design-desk.df4cd0cf.jpeg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
 
