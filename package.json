@@ -2,7 +2,7 @@
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
-  "source": "src/index.html",
+  "source": "./src/index.html",
   "homepage": "https://qaidjoharj53.github.io/SA-TechnicalOnboarding",
   "scripts": {
     "start": "parcel",
